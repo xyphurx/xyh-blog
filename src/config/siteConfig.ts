@@ -10,7 +10,7 @@ export const siteConfig: SiteConfig = {
 	title: "Umiliy",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "经验值+1，热爱值MAX",
 
 	// 站点 URL
 	site_url: "https://firefly.cuteleaf.cn",
